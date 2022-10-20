@@ -1,0 +1,25 @@
+body {
+   background-color: silver;
+}
+p {
+    color: #356B38;
+}
+h3 {
+    color: #356B38;
+}
+ol {
+    color: #356B38;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 30%;
+}
+#Favorite:hover {
+    color: gold;
+}
+#positions:hover {
+    color: gold;
+}
